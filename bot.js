@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
-re edited-by Ajx-Abu
+re edited-by Ajser4
 Sana-Ajx-Abu
 */
 
